@@ -1,4 +1,4 @@
-# thezahrand
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thezahrand&show_avatar=true&theme=dark)](https://github.com/thezahrand)
 
@@ -35,7 +35,7 @@ I'm passionate about learning new technologies and building innovative products.
 
 * [LinkedIn](https://www.linkedin.com/in/thezahrand/)
 * [Twitter](https://twitter.com/thezahrand)
-* [Email](mailto:thezahrand@gmail.com)
+* [Email](mailto:theonehzx@gmail.com)
 
 ## Thanks for visiting!
 
