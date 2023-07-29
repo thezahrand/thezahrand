@@ -15,13 +15,6 @@ I'm passionate about learning new technologies and building innovative products.
 * Software Engineering Principles
 * Problem Solving and Critical Thinking
 
-
-## Stats
-
-* 100+ stars on GitHub
-* 10+ repositories
-* 5+ languages
-
 ## Resources
 
 * [Learn Python](https://www.learnpython.org/)
